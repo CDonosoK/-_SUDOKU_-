@@ -1,10 +1,9 @@
-#################################################################
+
 #	Proyecto de [INF - 253] Lenguajes de Programación	            #
-#################################################################
-#                                                 		          #
+
+
 #                           -_SUDOKU_-                    	    #
-#                                            	  		            #
-#################################################################
+
 
 Clemente Donoso 201873546-9 
 Rodrigo Pérez 201873619-8 
@@ -26,6 +25,3 @@ para disfrutar del juego.
 
 [PARTE 2] https://www.youtube.com/watch?v=qBS0vaUKnbk&list=PL_Alv5wQu0Yi-aOHUQSNvJiXr4EBAOUML&index=2
 
-#REPOSITORIO:
-
-https://github.com/CDonosoK/-_SUDOKU_-
