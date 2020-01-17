@@ -6,7 +6,9 @@
 
 [INTEGRANTES]
 Clemente Donoso 201873546-9 
+
 Rodrigo Pérez 201873619-8 
+
 Manuel Valenzuela 201873552-3
 
 El juego se ejecuta desde main.py, pero ya existe un ejecutable listo para ser utilizado. 
