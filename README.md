@@ -7,7 +7,10 @@ Manuel Valenzuela 201873552-3
 
 El video presentación se llama Proyecto_Donoso_Perez_Valenzuela
 Se ejecuta desde main.py, pero ya hay un ejecutable listo.
-No se pudo implementar el Backtracking, pero de todas formas esta el codigo funcional con algunos ejemplos para su comprobación.
+Si bien se implementó el Backtracking, a medida que se fue realizando el proyecto nos dimos cuenta que no era recomendable para generar un Sudoku (En los videos se ve con más detalle el por qué), sin embargo, está el código funcional con algunos ejemplos para su comprobación y su funcionamiento. 
+
+#EJECUTABLE:
+Si desea utilizar el ejecutable, descomprima el archivo .rar en la carpeta del juego. Luego utilice el Main.exe para disfrutar del juego.
 
 #EXPLICACIÓN DEL CÓDIGO:
 
