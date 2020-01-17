@@ -2,7 +2,7 @@
 #	Proyecto de [INF - 253] Lenguajes de Programación	            #
 
 
-#                           -_SUDOKU_-                    	    #
+#                           -SUDOKU-                    	      #
 
 
 Clemente Donoso 201873546-9 
