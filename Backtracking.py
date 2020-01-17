@@ -1,4 +1,3 @@
-import time
 import copy
 
 '''
@@ -53,22 +52,17 @@ t_16=[
 '''
 
 
-def backtrack(sudoku,t_i,limiteT):
+def backtrack(sudoku):
     
     pos=sitioVacio(sudoku)
     if not pos:
-        #print("COMPROBACION tardo: %.10f segundos." %(time.time()-t_i))
-        global vg
-        
         return True,sudoku
     for valor in range(1,(len(sudoku)+1)):
         if validar(sudoku,pos,valor):
             sudoku[pos[0]][pos[1]] = valor
 
-            if backtrack(sudoku,t_i,limiteT):
+            if backtrack(sudoku):
                 return True,sudoku
-            if(time.time()-t_i >= limiteT):
-                return False
             sudoku[pos[0]][pos[1]] = 0
 
     return False
@@ -129,9 +123,5 @@ def printSudoku(sudoku):
             else:
                 print(str(sudoku[x][y]) + " ", end="")
 
-
-#start_time = time()
 #backtrack(t_9)
 #printSudoku(t_9)
-#t=time()-start_time
-#print("F tardo: %.10f segundos." %t)
