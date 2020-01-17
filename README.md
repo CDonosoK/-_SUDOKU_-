@@ -4,7 +4,7 @@
 
 #                           -SUDOKU-                    	      #
 
-[INTEGRANTES]
+#INTEGRANTES#
 
 Clemente Donoso 201873546-9 
 
