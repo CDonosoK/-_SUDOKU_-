@@ -10,6 +10,7 @@ Se ejecuta desde main.py, pero ya hay un ejecutable listo.
 No se pudo implementar el Backtracking, pero de todas formas esta el codigo funcional con algunos ejemplos para su comprobación.
 
 #EXPLICACIÓN DEL CÓDIGO:
+
 [PARTE 1]
 https://www.youtube.com/watch?v=rs61fietX6I&list=PL_Alv5wQu0Yi-aOHUQSNvJiXr4EBAOUML&index=1
 
